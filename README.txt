@@ -11,7 +11,7 @@ dMMMMP" dMMMMMP dMP dMP  VMMMP" dMP dMP         dMP dMP  VMMMP"dMMMMMP
 
                                       
 Este juego fué diseñada y estructurada por @S4vitar en su academia hack4u.io, el
-el código actual es mi versión poninedo mis propias funciones y juganilidad, 
+el código actual es mi versión poninedo mis propias funciones y jugabilidad, 
 si te sirver descargalo, si encuentras un error hazmelo saber para reparar el juego
 
 disfrutalo, gracias!
@@ -20,12 +20,10 @@ disfrutalo, gracias!
 .
 .
 
-nota: Despúes de la descarga, antes de usarlo por primera vez te recomiendo usarlo
+nota: Despúes de la descarga, antes de usarlo por primera vez te recomiendo usar:
 
 # Para agregar permisos de ejecución
 $ chmod +x ruleta.sh
-
--> ACZ
 
 # Ruleta
 Es una simulación de el juego de casiono "Ruleta"
